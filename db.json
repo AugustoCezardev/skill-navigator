@@ -1,0 +1,41 @@
+{
+  "courses": [ 
+    {
+      "id": 3,
+      "name": "Aprenda Vue",
+      "price": 100,
+      "sponsor": "Vue Mastery",
+      "isSpotligh": true,
+      "mediumStar": 1.5,
+      "reviews": 100
+    },
+    {
+      "id": 3,
+      "name": "Aprenda Vue",
+      "price": 100,
+      "sponsor": "Vue Mastery",
+      "isSpotligh": true,
+      "url": "https://www.google.com",
+      "mediumStar": 3.5,
+      "reviews": 100
+    },
+    {
+      "id": 3,
+      "name": "Aprenda Vue",
+      "price": 100,
+      "sponsor": "Vue Mastery",
+      "isSpotligh": true,
+      "mediumStar": 4.0,
+      "reviews": 100
+    }
+  ],
+  "profileSettings": {
+    "name": "John Doe",
+    "email": "",
+    "pushNotifications": true,
+    "colorTheme": "dark",
+    "interests": ["javascript", "vue"],
+    "language": "pt",
+    "reviews": 0
+  }
+}
