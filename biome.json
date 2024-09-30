@@ -13,7 +13,8 @@
 			"attributePosition": "auto",
 			"quoteStyle": "single",
 			"semicolons": "always",
-			"lineEnding": "crlf"
+			"lineEnding": "crlf",
+			"bracketSpacing": true
 		}
 	},
 	"linter": {
